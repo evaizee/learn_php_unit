@@ -3,9 +3,6 @@
         "php": "^5.4|^7.0",
         "ext-intl": "*"
     },
-    "autoload": {
-        "psr-0": { "": "lib/" }
-    },
     "require-dev": {
         "phpunit/phpunit" : "4.8.*",
         "whatthejeff/nyancat-phpunit-resultprinter": "~1.2"
